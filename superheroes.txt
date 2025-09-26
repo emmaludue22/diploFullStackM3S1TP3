@@ -232,7 +232,7 @@
   },
   {
     "id": 12,
-    "nombreSuperheroe": "Star-Lord",
+    "nombreSuperheroe": "Star- Lord",
     "nombreReal": "Peter Quill",
     "nombreSociedad": "Líder de los Guardianes",
     "edad": 38,
